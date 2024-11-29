@@ -1,6 +1,8 @@
 # Todolist
 
 Una aplicación de lista de tareas desarrollada con Angular y Tailwind CSS.
+![image](https://github.com/user-attachments/assets/782567c0-5a33-45ef-9e3c-e32b96eabf29)
+
 
 ## Características
 
